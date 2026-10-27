@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">خُطوة AI</string>
+    <string name="accessibility_service_label">مُرشد خُطوة AI داخل التطبيقات</string>
+    <string name="accessibility_service_description">يساعدك خُطوة AI على فهم عناصر الشاشة وإرشادك خطوة بخطوة داخل تطبيقات الهاتف عند طلبك فقط، دون قراءة كلمات المرور أو تنفيذ عمليات حساسة دون موافقتك.</string>
+    <string name="welcome_title">مرحبًا بك في خُطوة AI</string>
+    <string name="welcome_subtitle">مساعدك الذكي لتحويل أي سؤال أو هدف إلى معرفة موثقة وخطوات عملية قابلة للتنفيذ</string>
+    <string name="start_in_app_guidance">ابدأ الإرشاد داخل التطبيقات</string>
+    <string name="search_web_action">بحث موثق عبر الإنترنت</string>
+    <string name="input_hint">اكتب سؤالك، أو اطلب بحثًا بالمصادر، أو خطة عمل...</string>
+    <string name="stop_generation">إيقاف التوليد</string>
+    <string name="copy_answer">نسخ الإجابة</string>
+    <string name="retry_answer">إعادة المحاولة</string>
+    <string name="clear_history">مسح سجل المحادثات</string>
+    <string name="stop_guidance_now">إنهاء جلسة الإرشاد فورًا</string>
 </resources>
