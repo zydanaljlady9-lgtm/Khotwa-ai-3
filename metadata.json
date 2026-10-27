@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "",
+  "name": "خُطوة AI",
+  "description": "مساعد ذكي شخصي للمحادثة الذكية والبحث عبر الإنترنت والتخطيط والإرشاد التفاعلي داخل تطبيقات الهاتف.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
